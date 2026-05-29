@@ -1,0 +1,28 @@
+{
+	"options": {
+		"World 8": "Unique BGM",
+		"Coin Heaven": "Unique BGM",
+		"Water Bonus": "Unique BGM",
+		"Castle": "Castle BGM All Rooms"
+	},
+	"value_keys": {
+		"World 8": [
+			"Unique BGM",
+			"Ground BGM"
+		],
+		"Coin Heaven": [
+			"Unique BGM",
+			"Bonus BGM",
+			"Star BGM"
+		],
+		"Water Bonus": [
+			"Unique BGM",
+			"Water BGM",
+			"Bonus BGM"
+		],
+		"Castle": [
+			"Castle BGM All Rooms",
+			"BGM Match Room Theme"
+		]
+	}
+}

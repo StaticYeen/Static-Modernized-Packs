@@ -1,0 +1,15 @@
+{
+    "variations": {
+        "config:Coin Heaven": {
+            "Unique BGM": {
+                "source": "CoinHeaven.bgm"
+            },
+            "Bonus BGM": {
+                "source": "Bonus.bgm"
+            },
+			"Star BGM": {
+				"source": "StarMan.bgm"
+			}
+        }
+    }
+}

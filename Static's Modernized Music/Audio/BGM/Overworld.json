@@ -1,0 +1,17 @@
+{
+    "variations": {
+        "World1": {
+            "source": "Overworld.bgm"
+        },
+        "World8": {
+            "config:World 8": {
+                "Unique BGM": {
+                    "source": "OverworldW8.bgm"
+                },
+				"Ground BGM": {
+					"source": "Overworld.bgm"
+				}
+            }
+        }
+    }
+}

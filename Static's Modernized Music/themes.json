@@ -1,0 +1,130 @@
+{
+    "variations": {
+        "config:Castle": {
+            "Castle BGM All Rooms": {
+                "SMB1": {
+                    "World8": {
+                        "Level4": {
+                            "CastleWater": {
+                                "music": "Castle"
+                            }
+                        }
+                    }
+                },
+                "SMBLL": {
+                    "World8": {
+                        "Level4": {
+                            "CastleWater": {
+                                "music": "Castle"
+                            }
+                        }
+                    },
+                    "World13": {
+                        "Level4": {
+                            "Volcano": {
+                                "music": "Castle"
+                            },
+                            "Underground": {
+                                "music": "Castle"
+                            }
+                        }
+                    }
+                },
+                "SMBS": {
+                    "World1": {
+                        "Level4": {
+                            "Underground": {
+                                "music": "Castle"
+                            }
+                        }
+                    },
+                    "World2": {
+                        "Level4": {
+                            "Garden": {
+                                "music": "Castle"
+                            }
+                        }
+                    },
+					"World6": {
+						"Level2": {
+							"RoomType:BonusRoom": {
+								"Underwater": {"music": "Underwater"}
+							}
+						}
+					}
+				},
+                "SMBANN": {
+                    "World8": {
+                        "Level4": {
+                            "CastleWater": {
+                                "music": "Castle"
+                            }
+                        }
+                    }
+                }
+            },
+            "BGM Match Room Theme": {
+                "SMB1": {
+                    "World8": {
+                        "Level4": {
+                            "CastleWater": {
+                                "music": "Underwater"
+                            }
+                        }
+                    }
+                },
+                "SMBLL": {
+                    "World8": {
+                        "Level4": {
+                            "CastleWater": {
+                                "music": "Underwater"
+                            }
+                        }
+                    },
+                    "World13": {
+                        "Level4": {
+                            "Volcano": {
+                                "music": "Volcano"
+                            },
+                            "Underground": {
+                                "music": "Underground"
+                            }
+                        }
+                    }
+                },
+                "SMBS": {
+                    "World1": {
+                        "Level4": {
+                            "Underground": {
+                                "music": "Underground"
+                            }
+                        }
+                    },
+                    "World2": {
+                        "Level4": {
+                            "Garden": {
+                                "music": "Garden"
+                            }
+                        }
+                    },
+					"World6": {
+						"Level2": {
+							"RoomType:BonusRoom": {
+								"Underwater": {"music": "Underwater"}
+							}
+						}
+					}
+				},
+                "SMBANN": {
+                    "World8": {
+                        "Level4": {
+                            "CastleWater": {
+                                "music": "Underwater"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

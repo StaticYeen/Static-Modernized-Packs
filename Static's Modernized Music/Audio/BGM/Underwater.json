@@ -1,0 +1,20 @@
+{
+    "variations": {
+        "RoomType:Default": {
+            "source": "Underwater.bgm"
+        },
+        "RoomType:BonusRoom": {
+            "config:Water Bonus": {
+                "Unique BGM": {
+                    "source": "BonusWater.bgm"
+                },
+                "Water BGM": {
+                    "source": "Underwater.bgm"
+                },
+				"Bonus BGM": {
+					"source": "Bonus.bgm"
+				}
+            }
+        }
+    }
+}

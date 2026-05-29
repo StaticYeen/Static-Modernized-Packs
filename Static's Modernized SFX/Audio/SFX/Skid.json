@@ -1,0 +1,6 @@
+{
+    "variations": {
+        "default": {"source": "Skid.wav"},
+        "Snow": {"source": "SkidSnow.wav"}
+    }
+}
