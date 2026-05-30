@@ -15,6 +15,19 @@
 					"source": "Bonus.bgm"
 				}
             }
+        },
+        "CastleWater": {
+            "config:Water Bonus": {
+                "Unique BGM": {
+                    "source": "BonusWater.bgm"
+                },
+                "Water BGM": {
+                    "source": "Underwater.bgm"
+                },
+				"Bonus BGM": {
+					"source": "Bonus.bgm"
+				}
+            }
         }
     }
 }

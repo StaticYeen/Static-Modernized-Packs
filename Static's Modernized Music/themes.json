@@ -87,7 +87,7 @@
                                 "music": "Volcano"
                             },
                             "Underground": {
-                                "music": "Underground"
+                                "music": "Underground", "extra_bgm": "Bonus"
                             }
                         }
                     }
